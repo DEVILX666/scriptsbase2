@@ -81,9 +81,9 @@ const customOffers: Record<string, { title: string; logo: string; subtitle?: str
     title: "PlayMAX",
     logo: "https://banners.hangmyads.com/files/uploads/Off_A_105805.jpg",
   },
-  "PlayMax": {
-    title: "PlayMAX",
-    logo: "https://banners.hangmyads.com/files/uploads/Off_A_105805.jpg",
+  "Mistplay": {
+    title: "Mistplay",
+    logo: "https://cdn.affise.com/affise-media-service-prod/offers/959/26538/648176406.200x200.png",
   },
 }
 
