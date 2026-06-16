@@ -53,6 +53,10 @@ const customOffers: Record<string, { title: string; logo: string; subtitle?: str
     title: "Cash Giraffe",
     logo: "https://cdn.affise.com/affise-media-service-prod/offers/959/25331/2399346535.200x200.png",
   },
+  "Cash Giraffe": {
+    title: "Reco Social",
+    logo: "https://banners.hangmyads.com/files/uploads/Off_A_107725.png",
+  },
   "SoFi": {
     title: "SoFi: Credit Insights",
     logo: "https://banners.hangmyads.com/files/uploads/Off_A_101022.png",
